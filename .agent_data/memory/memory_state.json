@@ -1,0 +1,68 @@
+{
+  "short_term_window": 10,
+  "short_term": [
+    {
+      "role": "user",
+      "content": "explain the pdf file"
+    },
+    {
+      "role": "assistant",
+      "content": "{\n  \"final_answer\": \"Saved uploaded files:\\n- Co1 GIt Basics.pdf\\n- Easiest Python Notes.pdf\\n- 2420030450.pdf\\n- Skill-11.pdf\\n- co3 and co4 ads assignment.pdf\\n- CO4 (2).pdf (Stored Files=6, Inferred Versions=19, Recommended Backup=DAILY)\",\n  \"confidence\": \"high\",\n  \"sources\": [\n    {\n      \"document_or_file\": \"ca3a2af1a687_CO4 (2).pdf\",\n      \"version\": \"stored\",\n      \"timestamp\": \"local\",\n      \"snippet\": \"D:\\\\AI-Study-Assistant\\\\.agent_data\\\\uploads\\\\ca3a2af1a687_CO4 (2).pdf\"\n    },\n    {\n      \"document_or_file\": \"d1b001f25ec8_co3 and co4 ads assignment.pdf\",\n      \"version\": \"stored\",\n      \"timestamp\": \"local\",\n      \"snippet\": \"D:\\\\AI-Study-Assistant\\\\.agent_data\\\\uploads\\\\d1b001f25ec8_co3 and co4 ads assignment.pdf\"\n    },\n    {\n      \"document_or_file\": \"59480423086f_Skill-11.pdf\",\n      \"version\": \"stored\",\n      \"timestamp\": \"local\",\n      \"snippet\": \"D:\\\\AI-Study-Assistant\\\\.agent_data\\\\uploads\\\\59480423086f_Skill-11.pdf\"\n    },\n    {\n      \"document_or_file\": \"Latest PDF Summary\",\n      \"version\": \"v19\",\n      \"timestamp\": \"2026-04-08T09:42:52.550411+00:00\",\n      \"snippet\": \"inferred summary snapshot\"\n    }\n  ]\n}"
+    },
+    {
+      "role": "user",
+      "content": "Explain the pdf file"
+    },
+    {
+      "role": "assistant",
+      "content": "{\n  \"final_answer\": \"- Push to Remote First push: git push -u origin main Future pushes: git push 5.\\n- Pull From Remote git pull or fetch + merge: git fetch origin git merge origin/main 6.\\n- Branching & Merging Create branch: git checkout -b feature-x Switch back: git checkout main Merge: git merge feature-x 7.\\n- Resolve Merge Conflicts When conflict appears: - Open file in VS Code - Choose Accept Current / Accept Incoming - Save \\u2192 git add file \\u2192 git commit 8.\\n- Useful Commands git log --oneline --graph git diff\",\n  \"confidence\": \"medium\",\n  \"sources\": [\n    {\n      \"document_or_file\": \"Co1 GIt Basics.pdf\",\n      \"version\": \"2\",\n      \"timestamp\": \"local\",\n      \"snippet\": \"git commit -m \\\"Message\\\" 4. Push to Remote First push: git push -u origin main Future pushes: git push 5. Pull From Remote git pull or fetch + merge: git fetch origin git merge origin/main 6. Branching & Merging Create branch: git checkout -\"\n    }\n  ]\n}"
+    },
+    {
+      "role": "user",
+      "content": "Explain the pdf file"
+    },
+    {
+      "role": "assistant",
+      "content": "Step-by-step explanation:\n1. Push to Remote First push: git push -u origin main Future pushes: git push 5.\n2. Pull From Remote git pull or fetch + merge: git fetch origin git merge origin/main 6.\n3. Branching & Merging Create branch: git checkout -b feature-x Switch back: git checkout main Merge: git merge feature-x 7.\n4. Resolve Merge Conflicts When conflict appears: - Open file in VS Code - Choose Accept Current / Accept Incoming - Save \u2192 git add file \u2192 git commit 8.\n5. Useful Commands git log --oneline --graph git diff"
+    },
+    {
+      "role": "user",
+      "content": "in depth knowledge ,i want"
+    },
+    {
+      "role": "assistant",
+      "content": "Please clarify whether you want Study Mode (questions, summary, quiz) or Backup Mode (files, versions, restore, duplicate, backup frequency)."
+    },
+    {
+      "role": "user",
+      "content": "quiz"
+    },
+    {
+      "role": "assistant",
+      "content": "1. Which term best matches this idea?\n   \"Co 1: - Git Basics Init, Commit, Push, Pull, Merge (VS Code CMD Guide) Aim To teach students the fundamental Git commands init, add, commit, push, pull, merge using the VS Code int\"\n   A) Basics\n   B) merge\n   C) commit\n   D) push\n   Answer: A\n   Explanation: The sentence directly describes Basics.\n2. Which term best matches this idea?\n   \"Prerequisites - Git installed on the system - VS Code installed - Basic understanding of files/folders - GitHub account for remote operations - Ability to open VS Code Terminal (Ct\"\n   A) Prerequisites\n   B) merge\n   C) commit\n   D) push\n   Answer: A\n   Explanation: The sentence directly describes Prerequisites.\n3. Which term best matches this idea?\n   \"Configure Git Run once per machine: git config --global user.name \"Your Name\" git config --global user.email \"you@example.com\" 2.\"\n   A) Configure\n   B) merge\n   C) commit\n   D) push\n   Answer: A\n   Explanation: The sentence directly describes Configure.\n4. Which term best matches this idea?\n   \"Create a New Repository (git init) Steps: 1.\"\n   A) Create\n   B) merge\n   C) commit\n   D) push\n   Answer: A\n   Explanation: The sentence directly describes Create.\n5. Which term best matches this idea?\n   \"Run: git init (Optional) Add remote: git remote add origin <url> 3.\"\n   A) init\n   B) merge\n   C) commit\n   D) push\n   Answer: A\n   Explanation: The sentence directly describes init."
+    }
+  ],
+  "topic_counter": {
+    "give": 1,
+    "summary": 1,
+    "project": 1,
+    "summarization": 1,
+    "stop": 1,
+    "java": 1,
+    "file": 5,
+    "depth": 1,
+    "knowledge": 1,
+    "want": 1,
+    "quiz": 1
+  },
+  "weak_topic_counter": {
+    "give": 1,
+    "summary": 1,
+    "project": 1,
+    "summarization": 1,
+    "stop": 1,
+    "java": 1,
+    "quiz": 1
+  },
+  "interaction_count": 11
+}

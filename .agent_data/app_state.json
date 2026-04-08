@@ -1,0 +1,452 @@
+{
+  "processed_hashes": {
+    "246f053c0d58a9692ee36d9dbc2682baabbcd85d8700ea37ffb06f6396bc2c49": "Library-Book-Management-System.pdf",
+    "ca3a2af1a687bbaac2d60a742f8472aa1eb9773801ada3324f192c69d72c2a4f": "CO4 (2).pdf",
+    "d2dbefd2f175ab36e782c5b0dd0cc13c9ffbfab6dd20a1428bbdeac5779956e2": "Skill 15.pdf",
+    "7a2ffcbf1269a72c5cca70be660ffe31226f735b26c16c788658785c5d165350": "Skill 14.pdf",
+    "59480423086fa9668eaca487cdd375b1103c773ac44400e5bdd18082e1d5f470": "Skill-11.pdf",
+    "3622fdcc5635b7f8801896f204741ccdc6435f6b8c340948deb4269a2488ea91": "2420030450.pdf",
+    "562ad1fd981973c007eea714c574a4ceadd2745a94aa6bb73637db04806ac4d9": "Co1 GIt Basics.pdf"
+  },
+  "latest_pdf_summary": "Step-by-step explanation:\n1. Run: git init (Optional) Add remote: git remote add origin <url> 3.\n2. Check Status \u2192 Add \u2192 Commit git status git add .\n3. Push to Remote First push: git push -u origin main Future pushes: git push 5.\n4. Pull From Remote git pull or fetch + merge: git fetch origin git merge origin/main 6.\n5. Branching & Merging Create branch: git checkout -b feature-x Switch back: git checkout main Merge: git merge feature-x 7.\n6. Useful Commands git log --oneline --graph git diff git revert <hash> git reset --soft HEAD~1 9.",
+  "stored_files": {
+    "ca3a2af1a687bbaac2d60a742f8472aa1eb9773801ada3324f192c69d72c2a4f": "D:\\AI-Study-Assistant\\.agent_data\\uploads\\ca3a2af1a687_CO4 (2).pdf",
+    "d1b001f25ec8687e4ed332cc48ae5c0c5054e1c9274968cbeff2e882737c9396": "D:\\AI-Study-Assistant\\.agent_data\\uploads\\d1b001f25ec8_co3 and co4 ads assignment.pdf",
+    "59480423086fa9668eaca487cdd375b1103c773ac44400e5bdd18082e1d5f470": "D:\\AI-Study-Assistant\\.agent_data\\uploads\\59480423086f_Skill-11.pdf",
+    "3622fdcc5635b7f8801896f204741ccdc6435f6b8c340948deb4269a2488ea91": "D:\\AI-Study-Assistant\\.agent_data\\uploads\\3622fdcc5635_2420030450.pdf",
+    "d7e76ec6fcb0e1ce1ac04a7c3c187543d2fcdd01b627c2a980e617e35d3d7db1": "D:\\AI-Study-Assistant\\.agent_data\\uploads\\d7e76ec6fcb0_Easiest Python Notes.pdf",
+    "562ad1fd981973c007eea714c574a4ceadd2745a94aa6bb73637db04806ac4d9": "D:\\AI-Study-Assistant\\.agent_data\\uploads\\562ad1fd9819_Co1 GIt Basics.pdf"
+  },
+  "file_versions": {
+    "ca3a2af1a687bbaac2d60a742f8472aa1eb9773801ada3324f192c69d72c2a4f": {
+      "file_id": "ca3a2af1a687",
+      "file_name": "CO4 (2).pdf",
+      "versions": [
+        {
+          "version_number": 1,
+          "timestamp": "2026-04-08T09:00:54.866260+00:00",
+          "file_path": "D:\\AI-Study-Assistant\\.agent_data\\uploads\\ca3a2af1a687_CO4 (2).pdf",
+          "event": "upload"
+        }
+      ]
+    },
+    "59480423086fa9668eaca487cdd375b1103c773ac44400e5bdd18082e1d5f470": {
+      "file_id": "59480423086f",
+      "file_name": "Skill-11.pdf",
+      "versions": [
+        {
+          "version_number": 1,
+          "timestamp": "2026-04-08T09:22:42.350540+00:00",
+          "file_path": "D:\\AI-Study-Assistant\\.agent_data\\uploads\\59480423086f_Skill-11.pdf",
+          "event": "upload"
+        },
+        {
+          "version_number": 2,
+          "timestamp": "2026-04-08T09:22:44.253535+00:00",
+          "file_path": "D:\\AI-Study-Assistant\\.agent_data\\uploads\\59480423086f_Skill-11.pdf",
+          "event": "process"
+        },
+        {
+          "version_number": 3,
+          "timestamp": "2026-04-08T09:23:22.461289+00:00",
+          "file_path": "D:\\AI-Study-Assistant\\.agent_data\\uploads\\59480423086f_Skill-11.pdf",
+          "event": "upload"
+        }
+      ]
+    },
+    "3622fdcc5635b7f8801896f204741ccdc6435f6b8c340948deb4269a2488ea91": {
+      "file_id": "3622fdcc5635",
+      "file_name": "2420030450.pdf",
+      "versions": [
+        {
+          "version_number": 1,
+          "timestamp": "2026-04-08T09:23:24.013826+00:00",
+          "file_path": "D:\\AI-Study-Assistant\\.agent_data\\uploads\\3622fdcc5635_2420030450.pdf",
+          "event": "upload"
+        },
+        {
+          "version_number": 2,
+          "timestamp": "2026-04-08T09:23:25.659019+00:00",
+          "file_path": "D:\\AI-Study-Assistant\\.agent_data\\uploads\\3622fdcc5635_2420030450.pdf",
+          "event": "process"
+        }
+      ]
+    },
+    "d7e76ec6fcb0e1ce1ac04a7c3c187543d2fcdd01b627c2a980e617e35d3d7db1": {
+      "file_id": "d7e76ec6fcb0",
+      "file_name": "Easiest Python Notes.pdf",
+      "versions": [
+        {
+          "version_number": 1,
+          "timestamp": "2026-04-08T09:24:08.095411+00:00",
+          "file_path": "D:\\AI-Study-Assistant\\.agent_data\\uploads\\d7e76ec6fcb0_Easiest Python Notes.pdf",
+          "event": "upload"
+        }
+      ]
+    },
+    "562ad1fd981973c007eea714c574a4ceadd2745a94aa6bb73637db04806ac4d9": {
+      "file_id": "562ad1fd9819",
+      "file_name": "Co1 GIt Basics.pdf",
+      "versions": [
+        {
+          "version_number": 1,
+          "timestamp": "2026-04-08T09:25:18.936339+00:00",
+          "file_path": "D:\\AI-Study-Assistant\\.agent_data\\uploads\\562ad1fd9819_Co1 GIt Basics.pdf",
+          "event": "upload"
+        },
+        {
+          "version_number": 2,
+          "timestamp": "2026-04-08T09:25:20.547848+00:00",
+          "file_path": "D:\\AI-Study-Assistant\\.agent_data\\uploads\\562ad1fd9819_Co1 GIt Basics.pdf",
+          "event": "process"
+        },
+        {
+          "version_number": 3,
+          "timestamp": "2026-04-08T09:42:24.522447+00:00",
+          "file_path": "D:\\AI-Study-Assistant\\.agent_data\\uploads\\562ad1fd9819_Co1 GIt Basics.pdf",
+          "event": "upload"
+        },
+        {
+          "version_number": 4,
+          "timestamp": "2026-04-08T18:32:15.202750+00:00",
+          "file_path": "D:\\AI-Study-Assistant\\.agent_data\\uploads\\562ad1fd9819_Co1 GIt Basics.pdf",
+          "event": "upload"
+        }
+      ]
+    }
+  },
+  "summary_versions": [
+    {
+      "version": 1,
+      "timestamp": "2026-04-08T08:18:17.492587+00:00",
+      "trigger": "process",
+      "summary": "- using useState and submit the form to the backend to save the user in the database, then redirect to the Login page.\n- Create a Profile component that reads the stored userId/username, calls the backend to fetch full user details, and displays the information.\n- Redirect the user to the Login page if no logged-in user is found in storage.\n- Implement a Logout button that clears the stored user data and redirects to Login.\n- The application must store the logged-in user info in localStorage or sessionStorage and then use that stored information to fetch the complete user profile from the backend database.\n- Create a Register component using useState and submit the form to the backend to save the user in the database, then redirect to the Login page."
+    },
+    {
+      "version": 2,
+      "timestamp": "2026-04-08T08:18:21.539690+00:00",
+      "trigger": "manual",
+      "summary": "- using useState and submit the form to the backend to save the user in the database, then redirect to the Login page.\n- Create a Profile component that reads the stored userId/username, calls the backend to fetch full user details, and displays the information.\n- Redirect the user to the Login page if no logged-in user is found in storage.\n- Implement a Logout button that clears the stored user data and redirects to Login.\n- The application must store the logged-in user info in localStorage or sessionStorage and then use that stored information to fetch the complete user profile from the backend database.\n- Create a Register component using useState and submit the form to the backend to save the user in the database, then redirect to the Login page."
+    },
+    {
+      "version": 3,
+      "timestamp": "2026-04-08T08:18:46.324226+00:00",
+      "trigger": "restore",
+      "summary": "- using useState and submit the form to the backend to save the user in the database, then redirect to the Login page.\n- Create a Profile component that reads the stored userId/username, calls the backend to fetch full user details, and displays the information.\n- Redirect the user to the Login page if no logged-in user is found in storage.\n- Implement a Logout button that clears the stored user data and redirects to Login.\n- The application must store the logged-in user info in localStorage or sessionStorage and then use that stored information to fetch the complete user profile from the backend database.\n- Create a Register component using useState and submit the form to the backend to save the user in the database, then redirect to the Login page.",
+      "restored_from": 1
+    },
+    {
+      "version": 4,
+      "timestamp": "2026-04-08T08:18:58.984690+00:00",
+      "trigger": "restore",
+      "summary": "- using useState and submit the form to the backend to save the user in the database, then redirect to the Login page.\n- Create a Profile component that reads the stored userId/username, calls the backend to fetch full user details, and displays the information.\n- Redirect the user to the Login page if no logged-in user is found in storage.\n- Implement a Logout button that clears the stored user data and redirects to Login.\n- The application must store the logged-in user info in localStorage or sessionStorage and then use that stored information to fetch the complete user profile from the backend database.\n- Create a Register component using useState and submit the form to the backend to save the user in the database, then redirect to the Login page.",
+      "restored_from": 2
+    },
+    {
+      "version": 5,
+      "timestamp": "2026-04-08T08:19:00.646997+00:00",
+      "trigger": "restore",
+      "summary": "- using useState and submit the form to the backend to save the user in the database, then redirect to the Login page.\n- Create a Profile component that reads the stored userId/username, calls the backend to fetch full user details, and displays the information.\n- Redirect the user to the Login page if no logged-in user is found in storage.\n- Implement a Logout button that clears the stored user data and redirects to Login.\n- The application must store the logged-in user info in localStorage or sessionStorage and then use that stored information to fetch the complete user profile from the backend database.\n- Create a Register component using useState and submit the form to the backend to save the user in the database, then redirect to the Login page.",
+      "restored_from": 3
+    },
+    {
+      "version": 6,
+      "timestamp": "2026-04-08T08:19:02.138112+00:00",
+      "trigger": "restore",
+      "summary": "- using useState and submit the form to the backend to save the user in the database, then redirect to the Login page.\n- Create a Profile component that reads the stored userId/username, calls the backend to fetch full user details, and displays the information.\n- Redirect the user to the Login page if no logged-in user is found in storage.\n- Implement a Logout button that clears the stored user data and redirects to Login.\n- The application must store the logged-in user info in localStorage or sessionStorage and then use that stored information to fetch the complete user profile from the backend database.\n- Create a Register component using useState and submit the form to the backend to save the user in the database, then redirect to the Login page.",
+      "restored_from": 4
+    },
+    {
+      "version": 7,
+      "timestamp": "2026-04-08T08:19:02.800788+00:00",
+      "trigger": "restore",
+      "summary": "- using useState and submit the form to the backend to save the user in the database, then redirect to the Login page.\n- Create a Profile component that reads the stored userId/username, calls the backend to fetch full user details, and displays the information.\n- Redirect the user to the Login page if no logged-in user is found in storage.\n- Implement a Logout button that clears the stored user data and redirects to Login.\n- The application must store the logged-in user info in localStorage or sessionStorage and then use that stored information to fetch the complete user profile from the backend database.\n- Create a Register component using useState and submit the form to the backend to save the user in the database, then redirect to the Login page.",
+      "restored_from": 5
+    },
+    {
+      "version": 8,
+      "timestamp": "2026-04-08T08:19:04.210402+00:00",
+      "trigger": "restore",
+      "summary": "- using useState and submit the form to the backend to save the user in the database, then redirect to the Login page.\n- Create a Profile component that reads the stored userId/username, calls the backend to fetch full user details, and displays the information.\n- Redirect the user to the Login page if no logged-in user is found in storage.\n- Implement a Logout button that clears the stored user data and redirects to Login.\n- The application must store the logged-in user info in localStorage or sessionStorage and then use that stored information to fetch the complete user profile from the backend database.\n- Create a Register component using useState and submit the form to the backend to save the user in the database, then redirect to the Login page.",
+      "restored_from": 6
+    },
+    {
+      "version": 9,
+      "timestamp": "2026-04-08T09:01:00.232618+00:00",
+      "trigger": "process",
+      "summary": "- using useState and submit the form to the backend to save the user in the database, then redirect to the Login page.\n- Create a Profile component that reads the stored userId/username, calls the backend to fetch full user details, and displays the information.\n- Redirect the user to the Login page if no logged-in user is found in storage.\n- Implement a Logout button that clears the stored user data and redirects to Login.\n- The application must store the logged-in user info in localStorage or sessionStorage and then use that stored information to fetch the complete user profile from the backend database.\n- Create a Register component using useState and submit the form to the backend to save the user in the database, then redirect to the Login page."
+    },
+    {
+      "version": 10,
+      "timestamp": "2026-04-08T09:01:02.310576+00:00",
+      "trigger": "manual",
+      "summary": "- using useState and submit the form to the backend to save the user in the database, then redirect to the Login page.\n- Create a Profile component that reads the stored userId/username, calls the backend to fetch full user details, and displays the information.\n- Redirect the user to the Login page if no logged-in user is found in storage.\n- Implement a Logout button that clears the stored user data and redirects to Login.\n- The application must store the logged-in user info in localStorage or sessionStorage and then use that stored information to fetch the complete user profile from the backend database.\n- Create a Register component using useState and submit the form to the backend to save the user in the database, then redirect to the Login page."
+    },
+    {
+      "version": 11,
+      "timestamp": "2026-04-08T09:22:51.077626+00:00",
+      "trigger": "process",
+      "summary": "- using useState and submit the form to the backend to save the user in the database, then redirect to the Login page.\n- Create a Profile component that reads the stored userId/username, calls the backend to fetch full user details, and displays the information.\n- Redirect the user to the Login page if no logged-in user is found in storage.\n- Implement a Logout button that clears the stored user data and redirects to Login.\n- The application must store the logged-in user info in localStorage or sessionStorage and then use that stored information to fetch the complete user profile from the backend database.\n- Create a Register component using useState and submit the form to the backend to save the user in the database, then redirect to the Login page."
+    },
+    {
+      "version": 12,
+      "timestamp": "2026-04-08T09:23:30.782193+00:00",
+      "trigger": "process",
+      "summary": "- using useState and submit the form to the backend to save the user in the database, then redirect to the Login page.\n- Create a Profile component that reads the stored userId/username, calls the backend to fetch full user details, and displays the information.\n- Redirect the user to the Login page if no logged-in user is found in storage.\n- Implement a Logout button that clears the stored user data and redirects to Login.\n- The application must store the logged-in user info in localStorage or sessionStorage and then use that stored information to fetch the complete user profile from the backend database.\n- Create a Register component using useState and submit the form to the backend to save the user in the database, then redirect to the Login page."
+    },
+    {
+      "version": 13,
+      "timestamp": "2026-04-08T09:23:39.358361+00:00",
+      "trigger": "manual",
+      "summary": "- using useState and submit the form to the backend to save the user in the database, then redirect to the Login page.\n- Create a Profile component that reads the stored userId/username, calls the backend to fetch full user details, and displays the information.\n- Redirect the user to the Login page if no logged-in user is found in storage.\n- Implement a Logout button that clears the stored user data and redirects to Login.\n- The application must store the logged-in user info in localStorage or sessionStorage and then use that stored information to fetch the complete user profile from the backend database.\n- Create a Register component using useState and submit the form to the backend to save the user in the database, then redirect to the Login page."
+    },
+    {
+      "version": 14,
+      "timestamp": "2026-04-08T09:23:47.096087+00:00",
+      "trigger": "manual",
+      "summary": "- using useState and submit the form to the backend to save the user in the database, then redirect to the Login page.\n- Create a Profile component that reads the stored userId/username, calls the backend to fetch full user details, and displays the information.\n- Redirect the user to the Login page if no logged-in user is found in storage.\n- Implement a Logout button that clears the stored user data and redirects to Login.\n- The application must store the logged-in user info in localStorage or sessionStorage and then use that stored information to fetch the complete user profile from the backend database.\n- Create a Register component using useState and submit the form to the backend to save the user in the database, then redirect to the Login page."
+    },
+    {
+      "version": 15,
+      "timestamp": "2026-04-08T09:24:11.892458+00:00",
+      "trigger": "process",
+      "summary": "- using useState and submit the form to the backend to save the user in the database, then redirect to the Login page.\n- Create a Profile component that reads the stored userId/username, calls the backend to fetch full user details, and displays the information.\n- Redirect the user to the Login page if no logged-in user is found in storage.\n- Implement a Logout button that clears the stored user data and redirects to Login.\n- The application must store the logged-in user info in localStorage or sessionStorage and then use that stored information to fetch the complete user profile from the backend database.\n- Create a Register component using useState and submit the form to the backend to save the user in the database, then redirect to the Login page."
+    },
+    {
+      "version": 16,
+      "timestamp": "2026-04-08T09:25:25.167618+00:00",
+      "trigger": "process",
+      "summary": "- using useState and submit the form to the backend to save the user in the database, then redirect to the Login page.\n- Create a Profile component that reads the stored userId/username, calls the backend to fetch full user details, and displays the information.\n- Redirect the user to the Login page if no logged-in user is found in storage.\n- Implement a Logout button that clears the stored user data and redirects to Login.\n- The application must store the logged-in user info in localStorage or sessionStorage and then use that stored information to fetch the complete user profile from the backend database.\n- Create a Register component using useState and submit the form to the backend to save the user in the database, then redirect to the Login page."
+    },
+    {
+      "version": 17,
+      "timestamp": "2026-04-08T09:25:29.774165+00:00",
+      "trigger": "manual",
+      "summary": "- using useState and submit the form to the backend to save the user in the database, then redirect to the Login page.\n- Create a Profile component that reads the stored userId/username, calls the backend to fetch full user details, and displays the information.\n- Redirect the user to the Login page if no logged-in user is found in storage.\n- Implement a Logout button that clears the stored user data and redirects to Login.\n- The application must store the logged-in user info in localStorage or sessionStorage and then use that stored information to fetch the complete user profile from the backend database.\n- Create a Register component using useState and submit the form to the backend to save the user in the database, then redirect to the Login page."
+    },
+    {
+      "version": 18,
+      "timestamp": "2026-04-08T09:42:29.830245+00:00",
+      "trigger": "process",
+      "summary": "- Run: git init (Optional) Add remote: git remote add origin <url> 3.\n- Check Status \u2192 Add \u2192 Commit git status git add .\n- Push to Remote First push: git push -u origin main Future pushes: git push 5.\n- Pull From Remote git pull or fetch + merge: git fetch origin git merge origin/main 6.\n- Branching & Merging Create branch: git checkout -b feature-x Switch back: git checkout main Merge: git merge feature-x 7.\n- Useful Commands git log --oneline --graph git diff git revert <hash> git reset --soft HEAD~1 9."
+    },
+    {
+      "version": 19,
+      "timestamp": "2026-04-08T09:42:52.550411+00:00",
+      "trigger": "manual",
+      "summary": "- Run: git init (Optional) Add remote: git remote add origin <url> 3.\n- Check Status \u2192 Add \u2192 Commit git status git add .\n- Push to Remote First push: git push -u origin main Future pushes: git push 5.\n- Pull From Remote git pull or fetch + merge: git fetch origin git merge origin/main 6.\n- Branching & Merging Create branch: git checkout -b feature-x Switch back: git checkout main Merge: git merge feature-x 7.\n- Useful Commands git log --oneline --graph git diff git revert <hash> git reset --soft HEAD~1 9."
+    },
+    {
+      "version": 20,
+      "timestamp": "2026-04-08T18:32:18.456227+00:00",
+      "trigger": "process",
+      "summary": "Step-by-step explanation:\n1. Run: git init (Optional) Add remote: git remote add origin <url> 3.\n2. Check Status \u2192 Add \u2192 Commit git status git add .\n3. Push to Remote First push: git push -u origin main Future pushes: git push 5.\n4. Pull From Remote git pull or fetch + merge: git fetch origin git merge origin/main 6.\n5. Branching & Merging Create branch: git checkout -b feature-x Switch back: git checkout main Merge: git merge feature-x 7.\n6. Useful Commands git log --oneline --graph git diff git revert <hash> git reset --soft HEAD~1 9."
+    },
+    {
+      "version": 21,
+      "timestamp": "2026-04-08T18:32:19.618479+00:00",
+      "trigger": "manual",
+      "summary": "Step-by-step explanation:\n1. Run: git init (Optional) Add remote: git remote add origin <url> 3.\n2. Check Status \u2192 Add \u2192 Commit git status git add .\n3. Push to Remote First push: git push -u origin main Future pushes: git push 5.\n4. Pull From Remote git pull or fetch + merge: git fetch origin git merge origin/main 6.\n5. Branching & Merging Create branch: git checkout -b feature-x Switch back: git checkout main Merge: git merge feature-x 7.\n6. Useful Commands git log --oneline --graph git diff git revert <hash> git reset --soft HEAD~1 9."
+    }
+  ],
+  "activity_log": [
+    {
+      "timestamp": "2026-04-08T08:18:14.919395+00:00",
+      "action": "upload",
+      "file_name": "co3 and co4 ads assignment.pdf",
+      "file_hash": "d1b001f25ec8687e4ed332cc48ae5c0c5054e1c9274968cbeff2e882737c9396"
+    },
+    {
+      "timestamp": "2026-04-08T08:18:17.492644+00:00",
+      "action": "summary",
+      "file_name": "",
+      "file_hash": ""
+    },
+    {
+      "timestamp": "2026-04-08T08:18:21.539709+00:00",
+      "action": "summary",
+      "file_name": "",
+      "file_hash": ""
+    },
+    {
+      "timestamp": "2026-04-08T08:18:46.324269+00:00",
+      "action": "restore",
+      "file_name": "",
+      "file_hash": ""
+    },
+    {
+      "timestamp": "2026-04-08T08:18:58.984743+00:00",
+      "action": "restore",
+      "file_name": "",
+      "file_hash": ""
+    },
+    {
+      "timestamp": "2026-04-08T08:19:00.647048+00:00",
+      "action": "restore",
+      "file_name": "",
+      "file_hash": ""
+    },
+    {
+      "timestamp": "2026-04-08T08:19:02.138155+00:00",
+      "action": "restore",
+      "file_name": "",
+      "file_hash": ""
+    },
+    {
+      "timestamp": "2026-04-08T08:19:02.800829+00:00",
+      "action": "restore",
+      "file_name": "",
+      "file_hash": ""
+    },
+    {
+      "timestamp": "2026-04-08T08:19:04.210451+00:00",
+      "action": "restore",
+      "file_name": "",
+      "file_hash": ""
+    },
+    {
+      "timestamp": "2026-04-08T09:00:56.429916+00:00",
+      "action": "upload",
+      "file_name": "CO4 (2).pdf",
+      "file_hash": "ca3a2af1a687bbaac2d60a742f8472aa1eb9773801ada3324f192c69d72c2a4f"
+    },
+    {
+      "timestamp": "2026-04-08T09:01:00.232661+00:00",
+      "action": "summary",
+      "file_name": "",
+      "file_hash": ""
+    },
+    {
+      "timestamp": "2026-04-08T09:01:02.310613+00:00",
+      "action": "summary",
+      "file_name": "",
+      "file_hash": ""
+    },
+    {
+      "timestamp": "2026-04-08T09:22:43.866132+00:00",
+      "action": "upload",
+      "file_name": "Skill-11.pdf",
+      "file_hash": "59480423086fa9668eaca487cdd375b1103c773ac44400e5bdd18082e1d5f470"
+    },
+    {
+      "timestamp": "2026-04-08T09:22:50.970302+00:00",
+      "action": "process",
+      "file_name": "",
+      "file_hash": ""
+    },
+    {
+      "timestamp": "2026-04-08T09:22:51.077665+00:00",
+      "action": "summary",
+      "file_name": "",
+      "file_hash": ""
+    },
+    {
+      "timestamp": "2026-04-08T09:23:24.010643+00:00",
+      "action": "upload",
+      "file_name": "Skill-11.pdf",
+      "file_hash": "59480423086fa9668eaca487cdd375b1103c773ac44400e5bdd18082e1d5f470"
+    },
+    {
+      "timestamp": "2026-04-08T09:23:25.547566+00:00",
+      "action": "upload",
+      "file_name": "2420030450.pdf",
+      "file_hash": "3622fdcc5635b7f8801896f204741ccdc6435f6b8c340948deb4269a2488ea91"
+    },
+    {
+      "timestamp": "2026-04-08T09:23:30.675966+00:00",
+      "action": "process",
+      "file_name": "",
+      "file_hash": ""
+    },
+    {
+      "timestamp": "2026-04-08T09:23:30.782236+00:00",
+      "action": "summary",
+      "file_name": "",
+      "file_hash": ""
+    },
+    {
+      "timestamp": "2026-04-08T09:23:39.358407+00:00",
+      "action": "summary",
+      "file_name": "",
+      "file_hash": ""
+    },
+    {
+      "timestamp": "2026-04-08T09:23:47.096129+00:00",
+      "action": "summary",
+      "file_name": "",
+      "file_hash": ""
+    },
+    {
+      "timestamp": "2026-04-08T09:24:09.645754+00:00",
+      "action": "upload",
+      "file_name": "Easiest Python Notes.pdf",
+      "file_hash": "d7e76ec6fcb0e1ce1ac04a7c3c187543d2fcdd01b627c2a980e617e35d3d7db1"
+    },
+    {
+      "timestamp": "2026-04-08T09:24:11.892485+00:00",
+      "action": "summary",
+      "file_name": "",
+      "file_hash": ""
+    },
+    {
+      "timestamp": "2026-04-08T09:25:20.453908+00:00",
+      "action": "upload",
+      "file_name": "Co1 GIt Basics.pdf",
+      "file_hash": "562ad1fd981973c007eea714c574a4ceadd2745a94aa6bb73637db04806ac4d9"
+    },
+    {
+      "timestamp": "2026-04-08T09:25:25.061572+00:00",
+      "action": "process",
+      "file_name": "",
+      "file_hash": ""
+    },
+    {
+      "timestamp": "2026-04-08T09:25:25.167658+00:00",
+      "action": "summary",
+      "file_name": "",
+      "file_hash": ""
+    },
+    {
+      "timestamp": "2026-04-08T09:25:29.774205+00:00",
+      "action": "summary",
+      "file_name": "",
+      "file_hash": ""
+    },
+    {
+      "timestamp": "2026-04-08T09:42:26.028140+00:00",
+      "action": "upload",
+      "file_name": "Co1 GIt Basics.pdf",
+      "file_hash": "562ad1fd981973c007eea714c574a4ceadd2745a94aa6bb73637db04806ac4d9"
+    },
+    {
+      "timestamp": "2026-04-08T09:42:29.830286+00:00",
+      "action": "summary",
+      "file_name": "",
+      "file_hash": ""
+    },
+    {
+      "timestamp": "2026-04-08T09:42:52.550457+00:00",
+      "action": "summary",
+      "file_name": "",
+      "file_hash": ""
+    },
+    {
+      "timestamp": "2026-04-08T18:32:16.307780+00:00",
+      "action": "upload",
+      "file_name": "Co1 GIt Basics.pdf",
+      "file_hash": "562ad1fd981973c007eea714c574a4ceadd2745a94aa6bb73637db04806ac4d9"
+    },
+    {
+      "timestamp": "2026-04-08T18:32:18.456266+00:00",
+      "action": "summary",
+      "file_name": "",
+      "file_hash": ""
+    },
+    {
+      "timestamp": "2026-04-08T18:32:19.618502+00:00",
+      "action": "summary",
+      "file_name": "",
+      "file_hash": ""
+    }
+  ]
+}

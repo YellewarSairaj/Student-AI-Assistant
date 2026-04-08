@@ -1,0 +1,11 @@
+streamlit==1.44.1
+python-dotenv==1.0.1
+pypdf==5.4.0
+langchain==0.3.23
+langchain-community==0.3.21
+langchain-openai==0.3.12
+langchain-ollama==0.3.1
+langchain-text-splitters==0.3.8
+faiss-cpu==1.10.0
+rank-bm25==0.2.2
+mysql-connector-python==9.0.0
