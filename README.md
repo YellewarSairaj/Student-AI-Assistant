@@ -17,9 +17,6 @@ The project is designed to run fully offline with Ollama models, while also supp
 
 ![AI Study Assistant UI - Quiz](assets/app-screenshot-2.png.png)
 
-Place your screenshot files in the `assets/` folder with these names:
-- `app-screenshot-1.png.png`
-- `app-screenshot-2.png.png`
 
 ## What This App Does
 
